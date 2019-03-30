@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     private Button btnPoint, btnC,  btnPercent;
     private TextView tvOutput;
     private String display = "";
-    private String currentOperator = "";
+    private String currentOperator = ""; 
 
 
     @Override
